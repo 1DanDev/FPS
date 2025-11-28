@@ -2963,7 +2963,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4278512639
   m_Size: 2
 --- !u!23 &136041644
 MeshRenderer:
@@ -13590,7 +13590,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4278512639
   m_Size: 2
 --- !u!23 &633402258
 MeshRenderer:
@@ -26254,7 +26254,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4278512639
   m_Size: 2
 --- !u!23 &1216237535
 MeshRenderer:
@@ -28080,7 +28080,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4278512639
   m_Size: 2
 --- !u!23 &1321098853
 MeshRenderer:
@@ -32713,7 +32713,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4278512639
   m_Size: 2
 --- !u!23 &1548519283
 MeshRenderer:
@@ -36580,7 +36580,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4278512639
   m_Size: 2
 --- !u!23 &1732366857
 MeshRenderer:
@@ -44762,7 +44762,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4278512639
   m_Size: 2
 --- !u!23 &2094434887
 MeshRenderer:
@@ -47147,7 +47147,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4278512639
   m_Size: 2
 --- !u!4 &5709479263542052467
 Transform:
