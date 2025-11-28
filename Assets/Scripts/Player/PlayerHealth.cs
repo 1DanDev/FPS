@@ -28,6 +28,15 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
+    public void Heal(int amount)
+    {
+        currentHealth += amount;
+        if (currentHealth > maxHealth) currentHealth = maxHealth;
+
+        OnHealthChanged?.Invoke(currentHealth);
+        Debug.Log("Player healed: " + amount + ". Current Health: " + currentHealth);
+    }
+
     void Die()
     {
         Debug.Log("Player Died!");
